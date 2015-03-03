@@ -1,1 +1,0 @@
-{"builders":{"default":"maven"},"runners":{"configs":{"system:/java/standalone/simple/cli":{"ram":0,"variables":{},"options":{}}},"default":"system:/java/standalone/simple/cli"},"description":"Simple test","type":"maven","attributes":{}}
